@@ -5,7 +5,12 @@
 FocusBuddy is a minimalist desktop focus timer designed to make productivity feel effortless.  
 It blends a simple interface with subtle animations and a vintage-soft aesthetic to keep you grounded during work or study sessions.
 
+
 ---
+## 🪩 Preview
+
+![FocusBuddy in action](assets/screenshot.png)
+
 
 ## 🧩 About
 
